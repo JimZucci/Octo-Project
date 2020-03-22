@@ -365,7 +365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   isControlled: 1
-  speed: 50
+  speed: 100
   rotationSpeed: 50
   weight: 2
   colorMgr:
